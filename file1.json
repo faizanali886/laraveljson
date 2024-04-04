@@ -1,0 +1,19 @@
+{
+  "company": "XYZ Corporation",
+  "employees": [
+    {
+      "name": "Alice",
+      "age": 25,
+      "position": "Software Engineer"
+    },
+    {
+      "name": "Bob",
+      "age": 30,
+      "position": "Project Manager"
+    }
+  ],
+  "departments": {
+    "engineering": ["Alice", "Charlie", "David"],
+    "management": ["Bob", "Eve"]
+  }
+}
