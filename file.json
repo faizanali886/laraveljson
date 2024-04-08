@@ -1,12 +1,1 @@
-[
-  {
-    "name": "Richard Ghulam",
-    "age": 30,
-    "city": "New York"
-  },
-  {
-    "name": "Jane Smith",
-    "age": 25,
-    "city": "Los Angeles"
-  }
-]
+{"store":"richard","name":"Faizan"}
